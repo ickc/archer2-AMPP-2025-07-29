@@ -83,10 +83,10 @@ for private study. </blockquote></p>
 SLURM batch scripts are set to run in the short queue and should work any time. However, on days when the course is running, we have
 special reserved queues to guarantee fast turnaround.
 
-The reserved queue for today is called `ta161_1261863`. To use this queue, change the `--qos` and `--reservation` lines to:
+The reserved queue for today is called `ta206_1555696`. To use this queue, change the `--qos` and `--reservation` lines to:
 ````
 #SBATCH --qos=reservation
-#SBATCH --reservation=ta161_1261863
+#SBATCH --reservation=ta206_1555696
 ````
 
  * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
@@ -99,6 +99,7 @@ The reserved queue for today is called `ta161_1261863`. To use this queue, chang
  * Other things you could do with the halo swapping benchmark:
    - change the buffer size to be very small ( a few tens of bytes) or very large (bigger than the eager limit) to see if that affects the results;
    - run on different numbers of nodes.
+   - change the underlying network protocol from OFI to UCX - see https://docs.archer2.ac.uk/user-guide/dev-environment/#switching-to-alternative-ucx-mpi-implementation
  * Note that you will need to change the number of repetitions to get reasonable runtimes: many more for smaller messages, many fewer for larger messages. Each test needs to run for at least a few seconds to give reliable results.
    
  * The `halobench` program contains an example of using
