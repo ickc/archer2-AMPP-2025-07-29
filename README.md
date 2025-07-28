@@ -109,7 +109,7 @@ The reserved queue for today is called `ta206_1555696`. To use this queue, chang
  
 * Collective exercises and solutions are in
   https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/collective.tar
-  (instructions are included in comments at the top of each file
+  (instructions are included in comments at the top of each file).
 
 
 <h4>Day 2</h4>
