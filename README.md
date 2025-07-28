@@ -107,12 +107,17 @@ The reserved queue for today is called `ta206_1555696`. To use this queue, chang
 <!--- * Tomorrows traffic modelling problem sheet also contains a final MPI exercise
   in Section 3 to replace point-to-point boundary swapping with neighbourhood collectives. --->
  
+* Collective exercises and solutions are in
+  https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/collective.tar
+  (instructions are included in comments at the top of each file
+
+
 <h4>Day 2</h4>
 
-The reserved queue for today is called `ta161_1261866`. To use this queue, change the `--qos` and `--reservation` lines to:
+The reserved queue for today is called `ta206_1555702`. To use this queue, change the `--qos` and `--reservation` lines to:
 ````
 #SBATCH --qos=reservation
-#SBATCH --reservation=ta161_1261866
+#SBATCH --reservation=ta206_1555702
 ````
 
  * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
