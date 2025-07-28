@@ -4,11 +4,11 @@ width="133" height="100">
 
 <br /><br /><br /><br /><br />
 
-# ARCHER2 Advanced MPI course (June 2024)
+# ARCHER2 Advanced MPI course (July 2025)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: 27-28 June 2024 09:30 - 17:00 BST, online</h3>
+<h3>David Henty EPCC: 29 - 30 July 2025 10:00 - 16:00 BST, online</h3>
 
 This course is aimed at programmers seeking to deepen their
 understanding of MPI and explore some of its more recent and advanced
@@ -21,7 +21,6 @@ outcomes
 
 *  Understanding of how internal MPI implementation details affect performance
 *  Techniques for overlapping communications and calculation
-*  Familiarity with neighbourhood collective operations in MPI
 *  Understanding of best practice for MPI+OpenMP programming
 *  Knowledge of MPI memory models for RMA operations
 
@@ -48,30 +47,32 @@ a previous run of the course and the details may change for this run.
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Day 1: Thursday 27th June</h4>
+<h4>Day 1: Tuesday 29th July</h4>
 
- *   09:30 - 09:40 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/L00-ARCHER2-Intro.pdf">ARCHER2 training</a>
- *   09:40 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name" is: **HPCQUIZ**)
- *   10:15 - 11:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/MPI-Evolution.pdf">MPI History</a>
- *   11:00 - 11:30 Coffee
- *   11:30 - 13:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/MPI-Internals.pdf">Point-to-point Performance</a>
- *   13:00 - 14:00 Lunch
- *   14:00 - 15:30 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
- *   15:30 - 16:00 Coffee
- *   16:00 - 17:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/AMPP_Neighbourhood.pdf">Neighbourhood Collectives</a>
- *   17:00 CLOSE
+ *   10:00 - 10:15 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/L00-ARCHER2-Intro.pdf">ARCHER2 training</a>
+ *   10:15 - 11:15 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/L12-tipsandtricks.pdf">Tips and Tricks</a>
+ *   11:15 - 11:45 Coffee Break
+ *   11:45 - 12:30 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/MPI-Internals.pdf">MPI Internals</a>
+ *   12:30 - 13:30 Lunch
+ *   13:30 - 14:00 Practical: Point-to-point performance
+ *   14:00 - 14:45 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
+ *   14:45 - 15:00 Tea Brea
+ *   15:00 - 15:30 Practical: Halo Swapping
+  *  15:30 - 16:00  <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/AMPP-Advanced-Collectives.pdf">Advanced Collectives<a>
+ *   16:00 CLOSE
 
-<h4>Day 2: Friday 28th June</h4>
+<h4>Day 2: Wednesday 30th July</h4>
 
- *   09:30 - 11:00 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
- *   11:00 - 11:30 Coffee
- *   11:30 - 13:00 MPI + OpenMP (ii) - *same slide deck as above*
- *   13:00 - 14:00 Lunch
- *   14:00 - 14:30 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/IntroRMA.pdf">RMA Access in MPI</a>
- *   14:30 - 15:30 <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
- *   15:30 - 16:00 Coffee
- *   16:00 - 17:00 Finish Exercises
- *   17:00 CLOSE
+ *   10:00 - 10:30 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/E01-traffic.pdf">Traffic Modelling Example<a>
+  *  10:30 - 11:15 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
+ *   11:15 - 11:30 Coffee Break
+ *   11:30 - 12:00 Practical: Traffic Model
+ *   12:00 - 12:30 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (ii)<a>
+ *   12:30 - 13:30 Lunch
+ *   13:30 - 14:00 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/IntroRMA.pdf">RMA Access in MPI</a>
+ *   14:00 - 14:45 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
+ *   15:30 - 16:00 Practical: Traffic Model
+ *   16:00 CLOSE
 
 <h3>Exercise Material</h3>
 
@@ -88,8 +89,8 @@ The reserved queue for today is called `ta161_1261863`. To use this queue, chang
 #SBATCH --reservation=ta161_1261863
 ````
 
- * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
- * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
    
  * Description of 3D halo-swapping benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
  * Download the code directly to ARCHER2 using: `git clone https://github.com/davidhenty/halobench`
@@ -113,9 +114,9 @@ The reserved queue for today is called `ta161_1261866`. To use this queue, chang
 #SBATCH --reservation=ta161_1261866
 ````
 
- * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
- * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
-  * <a href="https://github.com/EPCCed/archer2-AMPP-2024-06-27/raw/main/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/traffic.tar">Traffic model source code and solutions (MPI / OpenMP)</a>
+  * <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
 
 ---
 
