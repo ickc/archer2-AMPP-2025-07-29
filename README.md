@@ -104,8 +104,8 @@ The reserved queue for today is called `ta206_1555696`. To use this queue, chang
    
  * The `halobench` program contains an example of using
    `MPI_Neighbor_alltoall()` to do pairwise swaps of data between neighbouring processes in a regular 3D grd
- * Tomorrows traffic modelling problem sheet also contains a final MPI exercise
-  in Section 3 to replace point-to-point boundary swapping with neighbourhood collectives.
+<--- * Tomorrows traffic modelling problem sheet also contains a final MPI exercise
+  in Section 3 to replace point-to-point boundary swapping with neighbourhood collectives. --->
  
 <h4>Day 2</h4>
 
