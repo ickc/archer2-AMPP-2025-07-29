@@ -58,7 +58,7 @@ for private study. </blockquote></p>
  *   14:00 - 14:45 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
  *   14:45 - 15:00 Tea Brea
  *   15:00 - 15:30 Practical: Halo Swapping
-  *  15:30 - 16:00  <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/AMPP-Advanced-Collectives.pdf">Advanced Collectives<a>
+ *   15:30 - 16:00  <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/AMPP-Advanced-Collectives.pdf">Advanced Collectives<a>
  *   16:00 CLOSE
 
 <h4>Day 2: Wednesday 30th July</h4>
