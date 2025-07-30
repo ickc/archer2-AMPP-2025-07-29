@@ -56,7 +56,7 @@ for private study. </blockquote></p>
  *   12:30 - 13:30 Lunch
  *   13:30 - 14:00 Practical: Point-to-point performance
  *   14:00 - 14:45 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
- *   14:45 - 15:00 Tea Brea
+ *   14:45 - 15:00 Tea Break
  *   15:00 - 15:30 Practical: Halo Swapping
  *   15:30 - 16:00  <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/AMPP-Advanced-Collectives.pdf">Advanced Collectives<a>
  *   16:00 CLOSE
@@ -71,8 +71,7 @@ for private study. </blockquote></p>
  *   12:30 - 13:30 Lunch
  *   13:30 - 14:15 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/IntroRMA.pdf">RMA Access in MPI</a>
  *   14:15 - 14:30 Tea break
- *      14:30 - 15:00 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
-
+ *   14:30 - 15:00 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
  *   15:00 - 16:00 Practical: Traffic Model
  *   16:00 CLOSE
 
