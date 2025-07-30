@@ -69,10 +69,11 @@ for private study. </blockquote></p>
  *   11:30 - 12:00 Practical: Traffic Model
  *   12:00 - 12:30 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (ii)<a>
  *   12:30 - 13:30 Lunch
- *   13:30 - 14:00 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/IntroRMA.pdf">RMA Access in MPI</a>
- *   14:00 - 14:30 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
-      14:30 - 15:00 Tea
-*   15:00 - 16:00 Practical: Traffic Model
+ *   13:30 - 14:15 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/IntroRMA.pdf">RMA Access in MPI</a>
+ *   14:15 - 14:30 Tea break
+ *      14:30 - 15:00 <a href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/raw/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
+
+ *   15:00 - 16:00 Practical: Traffic Model
  *   16:00 CLOSE
 
 <h3>Exercise Material</h3>
